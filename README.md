@@ -1,2 +1,3 @@
 "# Chess-in-Go" 
-fiha khir
+work in progress
+
